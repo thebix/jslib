@@ -38,7 +38,8 @@
         "babel-register": "6.26.0",
         "rxjs": "6.0.0",
         "rxjs-compat": "6.0.0",
-        "rwlock": "5.0.0"
+        "rwlock": "5.0.0",
+        "fast-csv": "2.4.1"
     },
     "babel": {
         "presets": [
